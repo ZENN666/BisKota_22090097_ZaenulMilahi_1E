@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfe9a82c-6fe1-445e-8cf9-32f56404ac31" name="Changes" comment="" />
+    <list default="true" id="cfe9a82c-6fe1-445e-8cf9-32f56404ac31" name="Changes" comment="y">
+      <change afterPath="$PROJECT_DIR$/src/BisKota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAWABAN03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nomer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nomer2.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +42,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.uhhuhi">
+  <component name="RunManager" selected="Application.BisKota">
+    <configuration name="BisKota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BisKota" />
+      <module name="UTS1E_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="nomer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nomer1" />
       <module name="UTS1E_" />
@@ -52,8 +66,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.uhhuhi" />
+        <item itemvalue="Application.BisKota" />
         <item itemvalue="Application.nomer1" />
+        <item itemvalue="Application.uhhuhi" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668403491305</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="y">
+      <created>1668403926863</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668403926863</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
